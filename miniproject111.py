@@ -1,4 +1,4 @@
-# Vegetable Market Management System
+# Vegetable Inventory Management System
 import datetime
 
 # Admin credentials
