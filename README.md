@@ -33,9 +33,3 @@ This project provides **role-based access** (Owner & User), handles inventory, b
 - **Modules:** `datetime` (for invoice generation)  
 - **Interface:** Console (Text-based)
 
----
-
-
-
-
-## 📂 Project Structure
